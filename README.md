@@ -72,7 +72,7 @@ screen and (orientation: landscape) {
 </p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! いずみ会 2010/10/24 !!!</marquee></span></h1>
-<p><a href="https://torokoid.github.io/home">Home</a>>2010年同期会</p>
+<p><a href="https://torokoid.github.io/home">Home</a>>2010年いずみ会</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
@@ -81,7 +81,31 @@ screen and (orientation: landscape) {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年6月1日、還暦祝い@池袋 !!!</marquee></span></h2>
 -->
 
-<a href="20100828_010.JPG" data-lightbox="abc"><img src="20100828_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_001.JPG" data-lightbox="abc"><img src="20101024_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_002.JPG" data-lightbox="abc"><img src="20101024_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_003.JPG" data-lightbox="abc"><img src="20101024_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_004.JPG" data-lightbox="abc"><img src="20101024_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_005.JPG" data-lightbox="abc"><img src="20101024_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_006.JPG" data-lightbox="abc"><img src="20101024_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_007.JPG" data-lightbox="abc"><img src="20101024_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_008.JPG" data-lightbox="abc"><img src="20101024_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_009.JPG" data-lightbox="abc"><img src="20101024_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_010.JPG" data-lightbox="abc"><img src="20101024_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_011.JPG" data-lightbox="abc"><img src="20101024_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_012.JPG" data-lightbox="abc"><img src="20101024_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_013.JPG" data-lightbox="abc"><img src="20101024_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_014.JPG" data-lightbox="abc"><img src="20101024_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_015.JPG" data-lightbox="abc"><img src="20101024_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_016.JPG" data-lightbox="abc"><img src="20101024_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_017.JPG" data-lightbox="abc"><img src="20101024_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_018.JPG" data-lightbox="abc"><img src="20101024_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_019.JPG" data-lightbox="abc"><img src="20101024_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_020.JPG" data-lightbox="abc"><img src="20101024_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_021.JPG" data-lightbox="abc"><img src="20101024_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_022.JPG" data-lightbox="abc"><img src="20101024_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_023.JPG" data-lightbox="abc"><img src="20101024_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_024.JPG" data-lightbox="abc"><img src="20101024_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20101024_025.JPG" data-lightbox="abc"><img src="20101024_025.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
